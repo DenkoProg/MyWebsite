@@ -142,3 +142,10 @@ p{
   .skills{
     padding-top: 20px;
   }
+  .c{
+        width: 25%;
+        padding-top: 70px;
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 50px;
+  }
